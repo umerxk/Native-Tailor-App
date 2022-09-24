@@ -5,6 +5,7 @@
 
 ## A Tailor Can
 - (creater/update/delete/read) users & clothe sizes
+- Manage Parents & Children records under one hood
 
 
 ## How to run locally?
